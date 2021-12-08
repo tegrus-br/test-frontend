@@ -19,10 +19,10 @@ As informações da API de consulta estão em: https://www.breakingbadapi.com/do
 
 A aplicação deve ser feita em React utilizando NextJS.
 
-Suba o código no seu github.
+Suba o código no seu github e no vercel.
 
 Analisaremos:
 
-a) Qualidade do código seguindo as boas práticas de programação e documentação.
+a) Qualidade do código seguindo as boas práticas de programação.
 
 b) Capacidade de detalhar o escopo e propor a melhor solução para a demanda.
