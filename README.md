@@ -9,7 +9,7 @@ Nossos devs gostam muito de Netflix, em especial da série Breaking Bad. :movie_
 
 Instruções: 
 
-1. Faça um wirefire do que será construído e envie por email.
+1. Faça um wirefire do que será construído.
 
 2. Crie uma tela que liste todos os personagens do seriado Breaking Bad, mostrando as informações básicas que vêm de uma API.
 
